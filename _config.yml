@@ -18,16 +18,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:anshumanbhadauria8
-  facebook:anshumanbhadauria
+  email: anshumanbhadauria8@gmail.com
+  facebook: anshumanbhadauria
   flickr:
-  github:anshmania
-  instagram:anshmania
-  linkedin:anshuman-singh-bhadauria/15/598/a35
+  github: anshmania
+  instagram: anshmania
+  linkedin: anshuman-singh-bhadauria/15/598/a35
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter:@KarraIndian
-  stackoverflow:users/5121329/anshuman-singh
+  twitter: @KarraIndian
+  stackoverflow: users/5121329/anshuman-singh
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
